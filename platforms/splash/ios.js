@@ -73,6 +73,18 @@ module.exports = {
             width: 320,
             height: 480,
             comment: ''
-        } // iPhone
+        }, // iPhone
+        {
+            name: "Default-2436h.png",
+            width: 1125,
+            height: 2436,
+            comment: ''
+        }, // iPhone X
+        {
+            name: "Default-Landscape-2436h.png",
+            width: 2436,
+            height: 1125,
+            comment: ''
+        }, // iPhone XS
     ]
 };
